@@ -42,4 +42,5 @@ We may update our privacy policy from time to time. Thus, you are advised to rev
 
 ### Contact Us
 If you have any questions or suggestions about our privacy policy, do not hesitate to contact us.
+
 Email: whenuwakeupsunwill@gmail.com
