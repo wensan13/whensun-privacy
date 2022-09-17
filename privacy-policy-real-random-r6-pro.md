@@ -2,15 +2,11 @@ Privacy Policy
 ----------------
 
 ### Introduction
-Our privacy policy will help you understand what information we collect at Real Random R6 Pro, how Real Random R6 Pro uses it, and what choices you have.
-Whensun built the Real Random R6 Pro app as a paid app. This service is provided by Whensun at $2 cost and is intended for use as is.
-If you choose to use our service, then you agree to the collection and use of information in relation with this policy. The personal information that we collect are used for providing and improving the service. We will not use or share your information with anyone except as described in this privacy policy.
-The terms used in this privacy policy have the same meanings as in our terms and conditions, which is accessible in our website, unless otherwise defined in this privacy policy.
+Our privacy policy will help you understand what information we collect at Real Random R6 Pro, how Real Random R6 Pro uses it, and what choices you have. Whensun built the Real Random R6 Pro app as a paid app. This service is provided by Whensun at $2 cost and is intended for use as is. If you choose to use our service, then you agree to the collection and use of information in relation with this policy. The personal information that we collect are used for providing and improving the service. We will not use or share your information with anyone except as described in this privacy policy. The terms used in this privacy policy have the same meanings as in our terms and conditions, which is accessible in our website, unless otherwise defined in this privacy policy.
 
 
 ### Information Collection and Use
-For a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+For a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you.
 
 
 ### Cookies
@@ -51,4 +47,6 @@ We may update our privacy policy from time to time. Thus, you are advised to rev
 
 ### Contact Us
 If you have any questions or suggestions about our privacy policy, do not hesitate to contact us.
+
 Email: whenuwakeupsunwill@gmail.com
+
